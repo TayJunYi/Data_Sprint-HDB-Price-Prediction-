@@ -1,0 +1,82 @@
+﻿Postal Code,District,Area,Region
+1,1,"Raffles Place, Marina, Cecil, People’s Park",Central
+2,1,"Raffles Place, Marina, Cecil, People’s Park",Central
+3,1,"Raffles Place, Marina, Cecil, People’s Park",Central
+4,1,"Raffles Place, Marina, Cecil, People’s Park",Central
+5,1,"Raffles Place, Marina, Cecil, People’s Park",Central
+6,1,"Raffles Place, Marina, Cecil, People’s Park",Central
+7,2,"Anson, Tanjong Pagar",Central
+8,3,"Queenstown, Tiong Bahru",Central
+9,4,"Telok Blangah, Harbourfront",Central
+10,4,"Telok Blangah, Harbourfront",Central
+11,5,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West
+12,5,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West
+13,5,"Pasir Panjang, Hong Leong Garden, Clementi New Town",West
+14,3,"Queenstown, Tiong Bahru",Central
+15,3,"Queenstown, Tiong Bahru",Central
+16,3,"Queenstown, Tiong Bahru",Central
+17,6,"High Street, Beach Road (part)",Central
+18,7,"Middle Road, Golden Mile",Central
+19,7,"Middle Road, Golden Mile",Central
+20,8,Little India,Central
+21,8,Little India,Central
+22,9,"Orchard, Cairnhill, River Valley",Central
+23,9,"Orchard, Cairnhill, River Valley",Central
+24,10,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central
+25,10,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central
+26,10,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central
+27,10,"Ardmore, Bukit Timah, Holland Road, Tanglin",Central
+28,11,"Watten Estate, Novena, Thomson",Central
+29,11,"Watten Estate, Novena, Thomson",Central
+30,11,"Watten Estate, Novena, Thomson",Central
+31,12,"Balestier, Toa Payoh, Serangoon",Central
+32,12,"Balestier, Toa Payoh, Serangoon",Central
+33,12,"Balestier, Toa Payoh, Serangoon",Central
+34,13,"Macpherson, Braddell",Central
+35,13,"Macpherson, Braddell",Central
+36,13,"Macpherson, Braddell",Central
+37,13,"Macpherson, Braddell",Central
+38,14,"Geylang, Eunos",Central
+39,14,"Geylang, Eunos",Central
+40,14,"Geylang, Eunos",Central
+41,14,"Geylang, Eunos",Central
+42,15,"Katong, Joo Chiat, Amber Road",East
+43,15,"Katong, Joo Chiat, Amber Road",East
+44,15,"Katong, Joo Chiat, Amber Road",East
+45,15,"Katong, Joo Chiat, Amber Road",East
+46,16,"Bedok, Upper East Coast, Eastwood, Kew Drive",East
+47,16,"Bedok, Upper East Coast, Eastwood, Kew Drive",East
+48,16,"Bedok, Upper East Coast, Eastwood, Kew Drive",East
+49,17,"Loyang, Changi",East
+50,17,"Loyang, Changi",East
+51,18,"Tampines, Pasir Ris",East
+52,18,"Tampines, Pasir Ris",East
+53,19,"Serangoon Garden, Hougang, Sengkang, Punggol",North-East
+54,19,"Serangoon Garden, Hougang, Sengkang, Punggol",North-East
+55,19,"Serangoon Garden, Hougang, Sengkang, Punggol",North-East
+56,20,"Bishan, Ang Mo Kio",North-East
+57,20,"Bishan, Ang Mo Kio",North-East
+58,21,"Upper Bukit Timah, Clementi Park, Ulu Pandan",Central
+59,21,"Upper Bukit Timah, Clementi Park, Ulu Pandan",Central
+60,22,Jurong,West
+61,22,Jurong,West
+62,22,Jurong,West
+63,22,Jurong,West
+64,22,Jurong,West
+65,23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",West
+66,23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",West
+67,23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",West
+68,23,"Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",West
+69,24,"Lim Chu Kang, Tengah",North
+70,24,"Lim Chu Kang, Tengah",North
+71,24,"Lim Chu Kang, Tengah",North
+72,25,"Krangi, Woodgrove, Woodlands",North
+73,25,"Krangi, Woodgrove, Woodlands",North
+75,27,"Yishun, Sembawang",North
+76,27,"Yishun, Sembawang",North
+77,26,"Upper Thomson, Springleaf",Central
+78,26,"Upper Thomson, Springleaf",Central
+79,28,Seletar,North-East
+80,28,Seletar,North-East
+81,17,"Loyang, Changi",East
+82,19,"Serangoon Garden, Hougang, Sengkang, Punggol",North-East
